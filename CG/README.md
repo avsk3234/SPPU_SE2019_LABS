@@ -1,4 +1,4 @@
-# SPPU-2019-Pattern-SE-COMP-Computer-Graphics-Practicals
+# SPPU-2019-Pattern-SE-AI&DS-Computer-Graphics-Practicals
 
 Group A Practicals : 
 
